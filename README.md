@@ -7,18 +7,18 @@ BugRepo maintains a collection of bug reports that are publicly available for re
 
 | Project                                  |              Timespan | #Components | \#Issues | \#Issue/day | \#Duplicates | %Duplicates | Median Resolving Time |
 | :--------------------------------------- | --------------------: | ----------: | -------: | ----------: | -----------: | ----------: | --------------------: |
-| [Mozilla Core](https://bugzilla.mozilla.org/buglist.cgi?resolution=---&query_format=advanced&product=Core) | 1997/03/28~2013/12/31 |         130 |  205,069 |        33.5 |       44,691 |       21.8% |            102.1 days |
-| [Firefox](https://bugzilla.mozilla.org/buglist.cgi?resolution=---&query_format=advanced&product=Firefox) | 1999/07/30~2013/12/31 |          52 |  115,814 |        22.0 |       35,814 |       30.9% |             76.4 days |
-| [Thunderbird](https://bugzilla.mozilla.org/buglist.cgi?resolution=---&query_format=advanced&product=Thunderbird) | 2000/04/12~2013/12/31 |          23 |   32,551 |         6.5 |       12,501 |       38.4% |             83.7 days |
-| [Eclipse Platform](https://bugs.eclipse.org/bugs/describecomponents.cgi?product=Platform) | 2001/10/10~2013/12/30 |          21 |   85,156 |        19.1 |       14,404 |       16.9% |             29.8 days |
-| [JDT](https://bugs.eclipse.org/bugs/describecomponents.cgi?product=JDT) | 2001/10/10~2013/12/31 |           6 |   45,296 |        10.1 |        7,688 |       17.0% |             23.0 days |
-| [Spark](http://issues.apache.org/jira/browse/SPARK) | 2010/04/01~2018/01/10 |          29 |   22,639 |         8.0 |        3,077 |       13.6% |              7.1 days |
-| [Hadoop](http://issues.apache.org/jira/browse/HADOOP) | 2005/07/24~2017/11/01 |          45 |   12,855 |         2.9 |        1,861 |       14.5% |             14.3 days |
-| [MapReduce](http://issues.apache.org/jira/browse/MAPREDUCE) | 2006/03/17~2018/01/15 |          63 |    7,019 |         1.6 |          977 |       13.9% |             28.2 days |
-| [HDFS](http://issues.apache.org/jira/browse/HDFS) | 2006/04/06~2018/01/12 |          71 |   12,779 |         3.0 |        1,659 |       13.0% |              9.7 days |
-| [HBase](http://issues.apache.org/jira/browse/HBASE) | 2007/02/27~2018/01/21 |          95 |   19,788 |         5.0 |        1,340 |        6.8% |              6.8 days |
-| [Cassandra](http://issues.apache.org/jira/browse/CASSANDRA) | 2009/03/07~2018/01/21 |          24 |   14,071 |         4.3 |        2,083 |       14.8% |              8.6 days |
-| [Mesos](http://issues.apache.org/jira/browse/MESOS) | 2011/02/16~2018/01/26 |          40 |    8,454 |         3.3 |          800 |        9.5% |             23.5 days |
+| [Mozilla Core](https://bugzilla.mozilla.org/buglist.cgi?resolution=---&query_format=advanced&product=Core) | 1997/03/28 ~ 2013/12/31 |         130 |  205,069 |        33.5 |       44,691 |       21.8% |            102.1 days |
+| [Firefox](https://bugzilla.mozilla.org/buglist.cgi?resolution=---&query_format=advanced&product=Firefox) | 1999/07/30 ~ 2013/12/31 |          52 |  115,814 |        22.0 |       35,814 |       30.9% |             76.4 days |
+| [Thunderbird](https://bugzilla.mozilla.org/buglist.cgi?resolution=---&query_format=advanced&product=Thunderbird) | 2000/04/12 ~ 2013/12/31 |          23 |   32,551 |         6.5 |       12,501 |       38.4% |             83.7 days |
+| [Eclipse Platform](https://bugs.eclipse.org/bugs/describecomponents.cgi?product=Platform) | 2001/10/10 ~ 2013/12/30 |          21 |   85,156 |        19.1 |       14,404 |       16.9% |             29.8 days |
+| [JDT](https://bugs.eclipse.org/bugs/describecomponents.cgi?product=JDT) | 2001/10/10 ~ 2013/12/31 |           6 |   45,296 |        10.1 |        7,688 |       17.0% |             23.0 days |
+| [Spark](http://issues.apache.org/jira/browse/SPARK) | 2010/04/01 ~ 2018/01/10 |          29 |   22,639 |         8.0 |        3,077 |       13.6% |              7.1 days |
+| [Hadoop](http://issues.apache.org/jira/browse/HADOOP) | 2005/07/24 ~ 2017/11/01 |          45 |   12,855 |         2.9 |        1,861 |       14.5% |             14.3 days |
+| [MapReduce](http://issues.apache.org/jira/browse/MAPREDUCE) | 2006/03/17 ~ 2018/01/15 |          63 |    7,019 |         1.6 |          977 |       13.9% |             28.2 days |
+| [HDFS](http://issues.apache.org/jira/browse/HDFS) | 2006/04/06 ~ 2018/01/12 |          71 |   12,779 |         3.0 |        1,659 |       13.0% |              9.7 days |
+| [HBase](http://issues.apache.org/jira/browse/HBASE) | 2007/02/27 ~ 2018/01/21 |          95 |   19,788 |         5.0 |        1,340 |        6.8% |              6.8 days |
+| [Cassandra](http://issues.apache.org/jira/browse/CASSANDRA) | 2009/03/07 ~ 2018/01/21 |          24 |   14,071 |         4.3 |        2,083 |       14.8% |              8.6 days |
+| [Mesos](http://issues.apache.org/jira/browse/MESOS) | 2011/02/16 ~ 2018/01/26 |          40 |    8,454 |         3.3 |          800 |        9.5% |             23.5 days |
 
 
 **Train/test data splitting**: We split each dataset into 80%, 20% according to the chronological order as train/test data respectively.
@@ -56,7 +56,7 @@ BugRepo maintains a collection of bug reports that are publicly available for re
 Bug localization is a process to map a bug report to the corresponding buggy source file. This dataset contains bug reports, commit history, and API descriptions of six open source Java projects including Eclipse Platform UI, SWT, JDT, AspectJ, Birt, and Tomcat. The dataset is currently available [here](http://openscience.us/repo/issues/bugfiles.html).
 
 | Project  | Timespan                | #Bugs mapped |
-| -------- | ----------------------- | -------------- |
+| :-------- | -----------------------: | --------------: |
 | AspectJ  | 2002-03-13 ~ 2014-01-10 | 593            |
 | Birt     | 2005-06-14 ~ 2013-12-19 | 4,178           |
 | Eclipse  | 2001-10-10 ~ 2014-01-17 | 6,495           |
@@ -78,7 +78,7 @@ Bug localization is a process to map a bug report to the corresponding buggy sou
 Given a software bug report, bug triaging is the process to identify an appropriate developer who could fix the bug. Automatic bug triaging algorithm can be formulated as a classification problem, which takes the bug title and description as the input, mapping it to one of the available developers (class labels). The dataset is currently available [here](http://bugtriage.mybluemix.net/).
 
 | Project      | \#Bugs  | \#Bugs for classifier |
-| ------------ | ------- | --------------------- |
+| :------------ | -------: | ---------------------: |
 | Chromium     | 383,104 | 118,643               |
 | Mozilla Core | 314,388 | 128,215               |
 | Firefox      | 162,307 | 24,214                |
@@ -100,7 +100,7 @@ The bug report datasets hosted in this repository contain detailed information a
 Lamkanfi et al. [MSR'13] contributed a dataset with over 200.000 reported bugs extracted from the Eclipse and Mozilla projects. Besides providing a single snapshot of a bug report, they also include all the incremental modifications as performed during the lifetime of the bug report. The dataset is currently available [here](https://github.com/ansymo/msr2013-bug_dataset).
 
 | Project          | \#Components | \#Bugs |
-| ---------------- | ------------ | ------ |
+| :---------------- | ------------: | ------: |
 | Eclipse Platform | 22           | 24,775 |
 | JDT              | 6            | 10,814 |
 | CDT              | 20           | 5,640  |
