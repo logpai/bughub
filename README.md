@@ -6,7 +6,7 @@ BugRepo maintains a collection of bug reports that are publicly available for re
 ### 1. Duplicate bug idenfication
 
 | Project                                  |              Timespan | #Components | \#Issues | \#Issue/day | \#Duplicates | %Duplicates | Median Resolving Time |
-| :--------------------------------------- | --------------------: | ----------: | -------: | ----------: | -----------: | ----------: | --------------------: |
+| :--------------------------------------- | :-------------------- | ----------: | -------: | ----------: | -----------: | ----------: | --------------------: |
 | [Mozilla Core](https://bugzilla.mozilla.org/buglist.cgi?resolution=---&query_format=advanced&product=Core) | 1997/03/28 ~ 2013/12/31 |         130 |  205,069 |        33.5 |       44,691 |       21.8% |            102.1 days |
 | [Firefox](https://bugzilla.mozilla.org/buglist.cgi?resolution=---&query_format=advanced&product=Firefox) | 1999/07/30 ~ 2013/12/31 |          52 |  115,814 |        22.0 |       35,814 |       30.9% |             76.4 days |
 | [Thunderbird](https://bugzilla.mozilla.org/buglist.cgi?resolution=---&query_format=advanced&product=Thunderbird) | 2000/04/12 ~ 2013/12/31 |          23 |   32,551 |         6.5 |       12,501 |       38.4% |             83.7 days |
