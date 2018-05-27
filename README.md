@@ -40,16 +40,16 @@ BugRepo maintains a collection of bug reports that are publicly available for re
 
 
 **Links to more duplicate bug report datasets**
-+ [MSR2014: Generating Duplicate Bug Datasets](https://doi.org/10.5281/zenodo.1144098)
-+ [MSR2017: Rediscovery Datasets: Connecting Duplicate Reports](https://zenodo.org/record/400614)
++ [[MSR'14]: Generating Duplicate Bug Datasets](https://doi.org/10.5281/zenodo.1144098)
++ [[MSR'17]: Rediscovery Datasets: Connecting Duplicate Reports](https://zenodo.org/record/400614)
 
 **Publications**
-+ Per Runeson, Magnus Alexandersson, Oskar Nyholm. [Detection of Duplicate Defect Reports Using Natural Language Processing](https://ieeexplore.ieee.org/document/4222611/), *International Conference on Software Engineering (ICSE)*, 2007.
-+ Chengnian Sun, David Lo, Xiaoyin Wang, Jing Jiang, Siau-Cheng Khoo. [A Discriminative Model Approach for Accurate Duplicate Bug Report Retrieval](https://ieeexplore.ieee.org/document/6062072/), *International Conference on Software Engineering (ICSE)*, 2010.
-+ Chengnian Sun, David Lo, Siau-Cheng Khoo, Jing Jiang. [Towards More Accurate Retrieval of Duplicate Bug Reports](https://ieeexplore.ieee.org/document/6100061), *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2011.
-+ Anh Tuan Nguyen, Tung Thanh Nguyen, Tien N. Nguyen, David Lo, Chengnian Sun. [Duplicate Bug Report Detection With a Combination of Information Retrieval and Topic Modeling](http://www.comp.nus.edu.sg/~specmine/suncn/papers/ase12.pdf), *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2012.
-+ 	Xinli Yang, David Lo, Xin Xia, Lingfeng Bao, Jianling Sun. [Combining Word Embedding with Information Retrieval to Recommend Similar Bug Reports](https://ieeexplore.ieee.org/document/7774514/), *IEEE International Symposium on Software Reliability Engineering (ISSRE)*, 2016.
-+ Mohamed Sami Rakha, Cor-Paul Bezemer, Ahmed E. Hassan. [Revisiting the Performance Evaluation of Automated Approaches for the Retrieval of Duplicate Issue Reports](https://ieeexplore.ieee.org/document/8048025/), *IEEE Transactions on Software Engineering (TSE)*, 2017.
++ [**ICSE'07**] Per Runeson, Magnus Alexandersson, Oskar Nyholm. [Detection of Duplicate Defect Reports Using Natural Language Processing](https://ieeexplore.ieee.org/document/4222611/), *International Conference on Software Engineering (ICSE)*, 2007.
++ [**ICSE'10**] Chengnian Sun, David Lo, Xiaoyin Wang, Jing Jiang, Siau-Cheng Khoo. [A Discriminative Model Approach for Accurate Duplicate Bug Report Retrieval](https://ieeexplore.ieee.org/document/6062072/), *International Conference on Software Engineering (ICSE)*, 2010.
++ [**ASE'11**] Chengnian Sun, David Lo, Siau-Cheng Khoo, Jing Jiang. [Towards More Accurate Retrieval of Duplicate Bug Reports](https://ieeexplore.ieee.org/document/6100061), *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2011.
++ [**ASE'12**] Anh Tuan Nguyen, Tung Thanh Nguyen, Tien N. Nguyen, David Lo, Chengnian Sun. [Duplicate Bug Report Detection With a Combination of Information Retrieval and Topic Modeling](http://www.comp.nus.edu.sg/~specmine/suncn/papers/ase12.pdf), *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2012.
++ [**ISSRE'16**] Xinli Yang, David Lo, Xin Xia, Lingfeng Bao, Jianling Sun. [Combining Word Embedding with Information Retrieval to Recommend Similar Bug Reports](https://ieeexplore.ieee.org/document/7774514/), *IEEE International Symposium on Software Reliability Engineering (ISSRE)*, 2016.
++ [**TSE'17**] Mohamed Sami Rakha, Cor-Paul Bezemer, Ahmed E. Hassan. [Revisiting the Performance Evaluation of Automated Approaches for the Retrieval of Duplicate Issue Reports](https://ieeexplore.ieee.org/document/8048025/), *IEEE Transactions on Software Engineering (TSE)*, 2017.
 
 ### 2. Bug localization
 
@@ -66,11 +66,11 @@ Bug localization is a process to map a bug report to the corresponding buggy sou
 
 **Publications**
 
-+ Xin Ye, Razvan C. Bunescu, Chang Liu. [Learning to Rank Relevant Files for Bug Reports using Domain Knowledge](http://ace.cs.ohiou.edu/~razvan/papers/fse14.pdf), *ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE)*, 2014.
-+ Xin Ye, Razvan C. Bunescu, Chang Liu. [Mapping Bug Reports to Relevant Files: A Ranking Model, a Fine-Grained Benchmark, and Feature Evaluation](https://ieeexplore.ieee.org/document/7270328/), *IEEE Transactions on Software Engineering (TSE)*, 2016.
-+　Xin Ye, Hui Shen, Xiao Ma, Razvan C. Bunescu, Chang Liu．[From Word Embeddings to Document Similarities for Improved Information Retrieval in Software Engineering](https://ieeexplore.ieee.org/document/7886921/), *International Conference on Software Engineering (ICSE)*, 2016.
-+ Xuan Huo, Ming Li, Zhi-Hua Zhou. [Learning Unified Features from Natural and Programming Languages for Locating Buggy Source Code](https://www.ijcai.org/Proceedings/16/Papers/230.pdf), *International Joint Conference on Artificial Intelligence (IJCAI)*, 2016.
-+ Xuan Huo, Ming Li. [Enhancing the Unified Features to Locate Buggy Files by Exploiting the Sequential Nature of Source Code](https://www.ijcai.org/proceedings/2017/0265.pdf), *International Joint Conference on Artificial Intelligence (IJCAI)*, 2017.
++ [**FSE'14**] Xin Ye, Razvan C. Bunescu, Chang Liu. [Learning to Rank Relevant Files for Bug Reports using Domain Knowledge](http://ace.cs.ohiou.edu/~razvan/papers/fse14.pdf), *ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE)*, 2014.
++ [**TSE'16**] Xin Ye, Razvan C. Bunescu, Chang Liu. [Mapping Bug Reports to Relevant Files: A Ranking Model, a Fine-Grained Benchmark, and Feature Evaluation](https://ieeexplore.ieee.org/document/7270328/), *IEEE Transactions on Software Engineering (TSE)*, 2016.
++ [**ICSE'16**] Xin Ye, Hui Shen, Xiao Ma, Razvan C. Bunescu, Chang Liu．[From Word Embeddings to Document Similarities for Improved Information Retrieval in Software Engineering](https://ieeexplore.ieee.org/document/7886921/), *International Conference on Software Engineering (ICSE)*, 2016.
++ [**IJCAI'16**] Xuan Huo, Ming Li, Zhi-Hua Zhou. [Learning Unified Features from Natural and Programming Languages for Locating Buggy Source Code](https://www.ijcai.org/Proceedings/16/Papers/230.pdf), *International Joint Conference on Artificial Intelligence (IJCAI)*, 2016.
++ [**IJCAI'17**] Xuan Huo, Ming Li. [Enhancing the Unified Features to Locate Buggy Files by Exploiting the Sequential Nature of Source Code](https://www.ijcai.org/proceedings/2017/0265.pdf), *International Joint Conference on Artificial Intelligence (IJCAI)*, 2017.
 
 
 ### 3. Bug triaging
@@ -93,8 +93,8 @@ The bug report datasets hosted in this repository contain detailed information a
 
 **Publications**
 
-+ Hongyu Zhang, Liang Gong, Steven Versteeg. [Predicting Bug-fixing Time: an Empirical Study of Commercial Software Projects](https://www.researchgate.net/publication/261314373_Predicting_bug-fixing_time_An_empirical_study_of_commercial_software_projects), *International Conference on Software Engineering (ICSE)*, 2013.
-+ Pamela Bhattacharya, Iulian Neamtiu. [Bug-fix Time Prediction Models: Can We Do Better?](http://alumni.cs.ucr.edu/~pamelab/bugfixtime.pdf), *International Working Conference on Mining Software Repositories (MSR)*, 2011.
++ [**ICSE'13**] Hongyu Zhang, Liang Gong, Steven Versteeg. [Predicting Bug-fixing Time: an Empirical Study of Commercial Software Projects](https://www.researchgate.net/publication/261314373_Predicting_bug-fixing_time_An_empirical_study_of_commercial_software_projects), *International Conference on Software Engineering (ICSE)*, 2013.
++ [**MSR'11**] Pamela Bhattacharya, Iulian Neamtiu. [Bug-fix Time Prediction Models: Can We Do Better?](http://alumni.cs.ucr.edu/~pamelab/bugfixtime.pdf), *International Working Conference on Mining Software Repositories (MSR)*, 2011.
 
 ### 5. Bug information mining
 Lamkanfi et al. [MSR'13] contributed a dataset with over 200.000 reported bugs extracted from the Eclipse and Mozilla projects. Besides providing a single snapshot of a bug report, they also include all the incremental modifications as performed during the lifetime of the bug report. The dataset is currently available [here](https://github.com/ansymo/msr2013-bug_dataset).
@@ -112,7 +112,7 @@ Lamkanfi et al. [MSR'13] contributed a dataset with over 200.000 reported bugs e
 
 **Publications**
 
-+ Ahmed Lamkanfi and Javier Perez and Serge Demeyer. The Eclipse and Mozilla Defect Tracking Dataset: a Genuine Dataset for Mining Bug Information. *International Working Conference on Mining Software Repositories (MSR)*, 2013.
++ [**MSR'13**] Ahmed Lamkanfi and Javier Perez and Serge Demeyer. The Eclipse and Mozilla Defect Tracking Dataset: a Genuine Dataset for Mining Bug Information. *International Working Conference on Mining Software Repositories (MSR)*, 2013.
 
 # License
 The datasets are freely available for research purposes.
