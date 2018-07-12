@@ -50,6 +50,8 @@ BugRepo maintains a collection of bug reports that are publicly available for re
 + [**ASE'12**] Anh Tuan Nguyen, Tung Thanh Nguyen, Tien N. Nguyen, David Lo, Chengnian Sun. [Duplicate Bug Report Detection With a Combination of Information Retrieval and Topic Modeling](http://www.comp.nus.edu.sg/~specmine/suncn/papers/ase12.pdf), *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2012.
 + [**ISSRE'16**] Xinli Yang, David Lo, Xin Xia, Lingfeng Bao, Jianling Sun. [Combining Word Embedding with Information Retrieval to Recommend Similar Bug Reports](https://ieeexplore.ieee.org/document/7774514/), *IEEE International Symposium on Software Reliability Engineering (ISSRE)*, 2016.
 + [**TSE'17**] Mohamed Sami Rakha, Cor-Paul Bezemer, Ahmed E. Hassan. [Revisiting the Performance Evaluation of Automated Approaches for the Retrieval of Duplicate Issue Reports](https://ieeexplore.ieee.org/document/8048025/), *IEEE Transactions on Software Engineering (TSE)*, 2017.
++ [**ICSE'18**] Mohamed Sami Rakha, Cor-Paul Bezemer, Ahmed E. Hassan. [LWE: LDA Refined Word Embeddings for Duplicate Bug Report Detection](https://dl.acm.org/citation.cfm?id=3195078), *International Conference on Software Engineering (ICSE)*, 2018.
++ [**TSE'17**] Mohamed Sami Rakha, Cor-Paul Bezemer, Ahmed E. Hassan. [DWEN: Deep Word Embedding Network for Duplicate Bug Report Detection in Software Repositories](https://dl.acm.org/citation.cfm?id=3183440.3195092), *International Conference on Software Engineering (ICSE)*, 2018.
 
 ### 2. Bug localization
 
