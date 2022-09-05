@@ -3,7 +3,7 @@
 BugRepo maintains a collection of bug reports that are publicly available for research purposes. Bug reports are a main data source for facilitating NLP-based research in software engineering. We categorize the datasets into the following research directions.
 
 
-### 1. Duplicate bug idenfication (detection)
+### 1. Duplicate bug idenfication
 
 | Project                                  |              Timespan | #Components | \#Issues | \#Issue/day | \#Duplicates | %Duplicates | Median Resolving Time |
 | :--------------------------------------- | :-------------------- | ----------: | -------: | ----------: | -----------: | ----------: | --------------------: |
@@ -49,26 +49,10 @@ BugRepo maintains a collection of bug reports that are publicly available for re
 + [**ASE'11**] Chengnian Sun, David Lo, Siau-Cheng Khoo, Jing Jiang. [Towards More Accurate Retrieval of Duplicate Bug Reports](https://ieeexplore.ieee.org/document/6100061), *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2011.
 + [**ASE'12**] Anh Tuan Nguyen, Tung Thanh Nguyen, Tien N. Nguyen, David Lo, Chengnian Sun. [Duplicate Bug Report Detection With a Combination of Information Retrieval and Topic Modeling](http://www.comp.nus.edu.sg/~specmine/suncn/papers/ase12.pdf), *IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2012.
 + [**ISSRE'16**] Xinli Yang, David Lo, Xin Xia, Lingfeng Bao, Jianling Sun. [Combining Word Embedding with Information Retrieval to Recommend Similar Bug Reports](https://ieeexplore.ieee.org/document/7774514/), *IEEE International Symposium on Software Reliability Engineering (ISSRE)*, 2016.
-+ [**IRICT '16**] Behzad Soleimani Neysiani, Seyed Morteza Babamir. [Methods of Feature Extraction for Detecting the Duplicate Bug Reports in Software Triage Systems](https://doi.org/10.13140/RG.2.1.1083.9925), *International Conference on Information Technology, Communications and Telecommunications (IRICT)*, 2016.
 + [**TSE'17**] Mohamed Sami Rakha, Cor-Paul Bezemer, Ahmed E. Hassan. [Revisiting the Performance Evaluation of Automated Approaches for the Retrieval of Duplicate Issue Reports](https://ieeexplore.ieee.org/document/8048025/), *IEEE Transactions on Software Engineering (TSE)*, 2017.
 + [**ICSE'18**] Amar Budhiraja, Raghu Reddy, Manish Shrivastava. [LWE: LDA Refined Word Embeddings for Duplicate Bug Report Detection](https://dl.acm.org/citation.cfm?id=3195078), *International Conference on Software Engineering (ICSE)*, 2018.
 + [**ICSE'18**] Amar Budhiraja, Kartik Dutta, Raghu Reddy, Manish Shrivastava. [DWEN: Deep Word Embedding Network for Duplicate Bug Report Detection in Software Repositories](https://dl.acm.org/citation.cfm?id=3183440.3195092), *International Conference on Software Engineering (ICSE)*, 2018.
-+ [**RJAS [J]'18**] Zahra Aminoroayaو Behzad Soleimani Neysiani, Mohammad H. Nadimi-Shahraki. [Detecting Duplicate Bug Reports Techniques](https://doi.org/10.36478/rjasci.2018.522.531), *Research Journal of Applied Sciences*, V. 13, N. 9, pp. 522-531, 2018.
-+ [**ICWR '19**] Behzad Soleimani Neysiani, Seyed Morteza Babamir. [New Methodology for Contextual Features Usage in Duplicate Bug Reports Detection](https://doi.org/10.1109/ICWR.2019.8765296), *5th IEEE International Conference on Web Research (ICWR)*, 2019.
-+ [**KBEI '19**] Behzad Soleimani Neysiani, Seyed Morteza Babamir. [Improving Performance of Automatic Duplicate Bug Reports Detection using Longest Common Sequence : Introducing New Textual Features for Textual Similarity Detection](https://doi.org/10.1109/KBEI.2019.8735038), *5th Conference on Knowledge Based Engineering and Innovation (KBEI)*, 2019.
-+ [**IKT '20**] Behzad Soleimani Neysiani, Seyed Morteza Babamir. [Effect of Typos Correction on the validation performance of Duplicate Bug Reports Detection](https://doi.org/), *10th International Conference on Information and Knowledge Technology (IKT)*, 2020.
-+ [**ICWR '20**] Behzad Soleimani Neysiani, Seyed Morteza Babamir. [Automatic Duplicate Bug Report Detection using Information Retrieval-based versus Machine Learning-based Approaches](https://doi.org/10.1109/ICWR49608.2020.9122288), *6th IEEE International Conference on Web Research (ICWR)*, 2020.
 + [**IST [J]'20**] Behzad Soleimani Neysiani, Seyed Morteza Babamir, Masayoshi Aritsugi. [Efficient Feature Extraction Model for Validation Performance Improvement of Duplicate Bug Report Detection in Software Bug Triage Systems](https://doi.org/10.1016/j.infsof.2020.106344), *Information and Software Technology*, V. 126, 2020.
-+ [**IKT '20**] Behzad Soleimani Neysiani, Saeed Doostali, Seyed Morteza Babamir, Zahra Aminoroaya. [Fast Duplicate Bug Reports Detector Training using Sampling for Dimension Reduction: Using Instance-based Learning for Continous Query in Real-World](https://doi.org/10.1109/IKT51791.2020.9345611), *11th International (Virtual) Conference on Information and Knowledge Technology (IKT)*, 2020.
-
-### 1.1. Typo Detection and Correction in Bug Reports
-
-**Publications**
-
-+ [**AICT '18**] Behzad Soleimani Neysiani, Seyed Morteza Babamir. [Automatic Typos Detection in Bug Reports](https://www.researchgate.net/publication/331020890), *12th International Conference on Application of Information and Communication Technologies*, 2019.
-+ [**ICCIDS '19**] Behzad Soleimani Neysiani, Seyed Morteza Babamir. [Automatic Interconnected Lexical Typo Correction in Bug Reports of Software Triage Systems](https://www.researchgate.net/publication/331315272), *International Conference on Contemporary Issues in Data Science*, 2019.
-+ [**IVUS '19**] Behzad Soleimani Neysiani, Seyed Morteza Babamir. [Fast Language-Independent Correction of Interconnected Typos to Finding Longest Terms Using Trie for Typo Detection and Correction](http://ceur-ws.org/Vol-2470/p32.pdf), *24th International Conference of Information Technology (IVUS)*, 2019.
-+ [**SNAS [J]'19**] Behzad Soleimani Neysiani, Seyed Morteza Babamir. [New Labeled Dataset of Interconnected Lexical Typos for Automatic Correction in the Bug Reports](https://doi.org/10.1007/s42452-019-1419-y), *SN Applied Sciences*, V. 1, 20.
 
 ### 2. Bug localization
 
