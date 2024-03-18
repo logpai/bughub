@@ -52,6 +52,7 @@ BugRepo maintains a collection of bug reports that are publicly available for re
 + [**TSE'17**] Mohamed Sami Rakha, Cor-Paul Bezemer, Ahmed E. Hassan. [Revisiting the Performance Evaluation of Automated Approaches for the Retrieval of Duplicate Issue Reports](https://ieeexplore.ieee.org/document/8048025/), *IEEE Transactions on Software Engineering (TSE)*, 2017.
 + [**ICSE'18**] Amar Budhiraja, Raghu Reddy, Manish Shrivastava. [LWE: LDA Refined Word Embeddings for Duplicate Bug Report Detection](https://dl.acm.org/citation.cfm?id=3195078), *International Conference on Software Engineering (ICSE)*, 2018.
 + [**ICSE'18**] Amar Budhiraja, Kartik Dutta, Raghu Reddy, Manish Shrivastava. [DWEN: Deep Word Embedding Network for Duplicate Bug Report Detection in Software Repositories](https://dl.acm.org/citation.cfm?id=3183440.3195092), *International Conference on Software Engineering (ICSE)*, 2018.
++ [**IST [J]'20**] Behzad Soleimani Neysiani, Seyed Morteza Babamir, Masayoshi Aritsugi. [Efficient Feature Extraction Model for Validation Performance Improvement of Duplicate Bug Report Detection in Software Bug Triage Systems](https://doi.org/10.1016/j.infsof.2020.106344), *Information and Software Technology*, V. 126, 2020.
 
 ### 2. Bug localization
 
